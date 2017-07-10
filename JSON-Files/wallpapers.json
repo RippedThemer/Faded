@@ -123,7 +123,67 @@
                     {      
                         "author": "Travis Hall",
                         "url": "https://raw.githubusercontent.com/RippedThemer/Faded/master/Wallpapers/xoxo.png",
-                        "name": "xoxo"                                             
+                        "name": "xoxo"
+                    },
+                    {
+                    	"author": "Travis Hall",
+                        "url": "https://raw.githubusercontent.com/RippedThemer/Faded/master/Wallpapers/barred_out.png",
+                        "name": "barred_out"
+                    },
+                    {      
+                        "author": "Travis Hall",
+                        "url": "https://raw.githubusercontent.com/RippedThemer/Faded/master/Wallpapers/dramatic.png",
+                        "name": "dramatic"
+                    },
+                    {      
+                        "author": "Travis Hall",
+                        "url": "https://raw.githubusercontent.com/RippedThemer/Faded/master/Wallpapers/ferngully.png",
+                        "name": "ferngully"
+                    },
+                    {
+                        "author": "Travis Hall",
+                        "url": "https://raw.githubusercontent.com/RippedThemer/Faded/master/Wallpapers/galaxy_hopping.png",
+                        "name": "galaxy_hopping"     
+                    },
+                    {
+                        "author": "Travis Hall",
+                        "url": "https://raw.githubusercontent.com/RippedThemer/Faded/master/Wallpapers/i_am_a_big.png",
+                        "name": "i_am_a_big"     
+                    },
+                    {
+                        "author": "Travis Hall",
+                        "url": "https://raw.githubusercontent.com/RippedThemer/Faded/master/Wallpapers/no_one_puts_baby_in_the.png",
+                        "name": "no_one_puts_baby_in_the"
+                    },
+                    {
+                        "author": "Travis Hall",
+                        "url": "https://raw.githubusercontent.com/RippedThemer/Faded/master/Wallpapers/pretty_colors.png",
+                        "name": "pretty_colors"
+                    },
+                    {      
+                        "author": "Travis Hall",
+                        "url": "https://raw.githubusercontent.com/RippedThemer/Faded/master/Wallpapers/pure_beauty.png",
+                        "name": "pure_beauty"
+                    },
+                    {      
+                        "author": "Travis Hall",
+                        "url": "https://raw.githubusercontent.com/RippedThemer/Faded/master/Wallpapers/started_from_the.png",
+                        "name": "started_from_the"
+                    },
+                    {
+                        "author": "Travis Hall",
+                        "url": "https://raw.githubusercontent.com/RippedThemer/Faded/master/Wallpapers/tag.png",
+                        "name": "tag"
+                    },
+                    {      
+                        "author": "Travis Hall",
+                        "url": "https://raw.githubusercontent.com/RippedThemer/Faded/master/Wallpapers/theres_levels_to_this.png",
+                        "name": "theres_levels_to_this"
+                    },
+                    {      
+                        "author": "Travis Hall",
+                        "url": "https://raw.githubusercontent.com/RippedThemer/Faded/master/Wallpapers/tiled.png",
+                        "name": "tiled"                                                 
                     }
           ]
 }
