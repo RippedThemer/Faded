@@ -141,6 +141,11 @@
                         "name": "ferngully"
                     },
                     {
+                    	"author": "Travis Hall",
+                        "url": "https://raw.githubusercontent.com/RippedThemer/Faded/master/Wallpapers/planet_trekking.png",
+                        "name": "planet_trekking"     
+                    },
+                    {
                         "author": "Travis Hall",
                         "url": "https://raw.githubusercontent.com/RippedThemer/Faded/master/Wallpapers/galaxy_hopping.png",
                         "name": "galaxy_hopping"     
